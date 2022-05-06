@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on both front-end and back-end development
-- 🌱 I’m currently learning Java, Javascript, HTML, CSS, Bootstrap, MongoDB
-- 🤔 I’m looking for help with MongoDB
+- 🌱 I’m currently learning Java, Javascript, HTML, CSS, MySQL
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abrahim-abdulkader-6656a6180/)
 - 😄 Pronouns: He/Him
